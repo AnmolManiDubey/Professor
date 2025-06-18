@@ -15,7 +15,7 @@ export default function App() {
     setData(null);
 
     try {
-      const res = await fetch(`http://localhost:8000/teach?topic=${encodeURIComponent(topic)}`);
+      const res = await fetch(`https://professor-backend.vercel.app/teach?topic=${encodeURIComponent(topic)}`);
       if (!res.ok) {
         throw new Error("Failed to fetch explanation");
       }
