@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🧠 Professor AI
 
 **Professor AI** is an intelligent AI-powered teaching assistant that helps users learn complex topics with deep explanations, visual aids, and trustworthy reference links. Built with React, FastAPI, and Groq's LLaMA models, it combines the power of conversational AI with educational tools to create a smarter learning experience.
@@ -110,15 +106,7 @@ Professor/
 │       └── App.jsx
 ```
 
----
 
-## 🧠 Powered By
-
-* [Groq LLaMA 3 API](https://console.groq.com/)
-* [React Markdown](https://github.com/remarkjs/react-markdown)
-* [Vercel](https://vercel.com/)
-
----
 
 ## 📜 License
 
